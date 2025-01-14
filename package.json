@@ -1,0 +1,16 @@
+{
+  "name": "tp_ecole_it",
+  "version": "1.0.0",
+  "description": "projet test",
+  "license": "ISC",
+  "author": "pantouro",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon start"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
